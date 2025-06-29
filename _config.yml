@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Rima OULHAJ"
 description              : &description "Postdoc"
 url                      : https://rimaoulhaj1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/homepage"
+baseurl                  : "/"
 repository               : "rimaoulhaj1/rimaoulhaj.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #
   impactstory      : # URL
-  orcid            : #
+  orcid            : https://orcid.org/0009-0002-6915-8327
   semantic         : # URL
   pubmed           : #
   researchgate     : https://www.researchgate.net/profile/Rima-Oulhaj-2
