@@ -11,7 +11,7 @@ I am Postdoctoral researcher at ISAE-Supméca. I work on causal modeling for fau
 
 # Research
 
-Current projet :
+Current project : ADAPTe
 Lab : Euler, ISAE-SUPMECA
 
 # News
