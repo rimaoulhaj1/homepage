@@ -6,9 +6,7 @@ permalink: /publication/202106_Explorative_Implementation_of_Open-Source_Peer-to
 excerpt: ''
 date: 2021-06-01
 venue: '2021 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)'
-slidesurl: ''
 paperurl: 'https://hal.science/hal-03419773v1/file/2021-%20article%20ICE-v7.pdf'
-bibtexurl: ''
 citation: 'Gabriel, Alex & Oulhaj, Rima & Dupont, Laurent. (2021). Explorative Implementation of Open-Source Peer-to-Peer Energy Trading Approaches. 1-7. 10.1109/ICE/ITMC52061.2021.9570218.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
