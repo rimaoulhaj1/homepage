@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Postdoctoral researcher at ISAE-Supméca | Causal modeling for fault diagnosis (root-cause analysis) in manufacturing processes with a magnesium foundry use case.
+I am Postdoctoral researcher at ISAE-Supméca. I work on causal modeling for fault diagnosis (root-cause analysis) in manufacturing processes with a magnesium foundry use case.
 
 # Research
 
