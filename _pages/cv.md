@@ -34,7 +34,7 @@ Work experience
   * Automatic recognition of electrical devices through their charging curve by machine learning methods.
   * Supervised by [Guillaume Binet](https://www.linkedin.com/in/guillaume-binet-825533200?trk=people-guest_people_search-card)
 
-* 2020/03 - 2020/09 :  Internship, ERPI | Equipe de Recherche sur les Processus Innovatifs 
+* 2020/03 - 2020/09 :  Internship, ERPI - Equipe de Recherche sur les Processus Innovatifs 
   * Comparative study of peer-to-peer energy sharing architectures within communities of renewable energy producers (photovoltaic panels) equipped with Smart Grids for the collection of consumption data. 
   * State of the art of different architectures (centralized, multi-agent, blockchain-based), implementation of different architectures, a consumption prediction module and implementation of evaluation indexes.
   * Supervised by [Laurent DUPONT](https://www.linkedin.com/in/guillaume-binet-825533200?trk=people-guest_people_search-card) and [Alex GABRIEL]()
