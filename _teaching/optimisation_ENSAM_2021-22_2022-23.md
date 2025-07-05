@@ -8,11 +8,6 @@ date: 01/2022 - 06/2023
 location: "Aix-en-Provence, France"
 ---
 
-Linear Programming
-======
-
-Metaheuristics
-======
-
-Constraint programming
-======
+- Linear Programming
+- Metaheuristics
+- Constraint programming
