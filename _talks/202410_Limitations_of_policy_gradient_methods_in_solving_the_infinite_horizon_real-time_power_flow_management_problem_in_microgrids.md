@@ -9,3 +9,4 @@ location: "Stuttgart, Germany"
 citation: 'Oulhaj, Rima & Garambois, Pierre & Lionel, Roucoules. (2024). Limitations of policy gradient methods in solving the infinite horizon real-time power flow management problem in microgrids.'
 ---
 
+This repository provides implementation details of an article submited to SysDO2024 and titled "Limitations of policy gradient methods in solving the infinite-horizon real-time power flow management problem in microgrids" : [LIEN](https://github.com/rimaoulhaj1/Limitations-of-policy-gradient-methods-for-power-flow-management-in-microgrid)
