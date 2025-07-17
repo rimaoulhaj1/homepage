@@ -16,7 +16,7 @@ I am a Postdoctoral researcher at ISAE-Supméca. I work on causal modeling for f
 
 # News
 
-### 🗞️PREPRINT
+### 🗞️PREPRINT - 2025-17-07
 
 I am happy to share the preprint of our paper titled "Real Time Power Flow Control in Renewables-Storage Microgrids: Assessing the Reliability Of Finite Horizon Policy Gradient Methods in Constrained and Unconstrained Scenarios" which you can download here : [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355026)
 
