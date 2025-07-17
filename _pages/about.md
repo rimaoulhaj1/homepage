@@ -18,7 +18,7 @@ I am a Postdoctoral researcher at ISAE-Supméca. I work on causal modeling for f
 
 ### 🗞️PREPRINT
 
-I am happy to share the preprint of our paper titled "Real Time Power Flow Control in Renewables-Storage Microgrids: Assessing the Reliability Of Finite Horizon Policy Gradient Methods in Constrained and Unconstrained Scenarios" which you can download here : https://lnkd.in/eQVw8tY4
+I am happy to share the preprint of our paper titled "Real Time Power Flow Control in Renewables-Storage Microgrids: Assessing the Reliability Of Finite Horizon Policy Gradient Methods in Constrained and Unconstrained Scenarios" which you can download here : [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5355026)
 
 The paper presents the main findings of my PhD with the following highlights :
 - ⚒️ The paper introduces a rigorously justified Markov Decision Process (MDP) framework for modeling power flow control in microgrids, supporting systematic benchmarking of deep reinforcement learning methods and providing a clear distinction between feasibility constraints and undesirable actions.
